@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0284-peeking-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
