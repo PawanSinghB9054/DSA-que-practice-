@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0066-plus-one) |
 | [0284-peeking-iterator](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0284-peeking-iterator) |
 | [0648-replace-words](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0648-replace-words) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0066-plus-one) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PAWANSINGB/DSA-que-practice-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
